@@ -6,6 +6,7 @@
 - **Fact :** First solve the problem, then write the code ❤️
 - **Contact me :** 微信：Encho
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenzehui&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shenzehui&show_icons=true">
+
 
 
