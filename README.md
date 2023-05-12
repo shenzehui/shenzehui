@@ -5,7 +5,6 @@
 - **Languages :** Java, Spring, Spring Boot, Mysql, Web 全栈
 - **Hobbies :** ChineseChess 🎭 & Music 🎧
 - **Fact :** First solve the problem, then write the code ❤️
-- **Contact me :** 微信：Encho
 
 
 
