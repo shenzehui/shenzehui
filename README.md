@@ -1,22 +1,22 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shenzehui&show_icons=true">
 
-### 👋 Hi, there
+### ❤ Hi, there
 - **Learning :** Full-Stack Development ⚡ | Open-Source 🔥
 - **Languages :** Java, Spring, Spring Boot, Mysql, Web 全栈
 - **Hobbies :** ChineseChess 🎭 & Music 🎧
 - **Fact :** First solve the problem, then write the code ❤️
 
-## Hello GitHub Fans 👋
+## Hello GitHub Fans 🖐
 <p align="center">
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/博客-Java达摩院-brightgreen.svg?style=for-the-badge"></a>
   <a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/公众号-Echo-green.svg?style=for-the-badge"></a>
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/交流群-Echo-critical?style=for-the-badge"></a>
 </p>
 
-### I'm shenzehui
+### 😀 I'm shenzehui
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently studying in Ningbo University of Finance, China.
+- 😘 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- ✅ Currently studying in Ningbo University of Finance, China.
 - 💬 Ask me about Java, Spring and my projects on [3032388097@qq.com](mailto:3032388097@qq.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
